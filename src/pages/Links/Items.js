@@ -11,14 +11,26 @@ import goldStar from './icons/goldStar.png'
 const allLinks = [
   {
     name: "AeroMobility",
-    description: "Visit our Website www.aeromobility.com!",
+    description: "Visit our Website www.aeromobility.com",
     link: "https://www.aeromobility.com",
     icon: aero,
   },
   {
+    name: "Inventory",
+    description: "Our Inventory!",
+    link: "https://www.aeromobility.com/used-wheelchair-vehicles-for-sale-anaheim-ca",
+    icon: aero,
+  },
+  {
     name : 'GiantMobility',
-    description: "Rear-Entry Vehicles",
+    description: "Rear-Entry Vehicles www.giantmobility.com",
     link: "https://www.giantmobility.com",
+    icon: giant,
+  },
+  {
+    name: "giantInventory",
+    description: "Rear-Entry Inventory!",
+    link: "https://www.giantmobility.com/inventory/",
     icon: giant,
   },
   {
