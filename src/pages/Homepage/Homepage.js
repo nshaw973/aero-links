@@ -6,7 +6,7 @@ import video from './building.mp4'
 const Homepage = () => {
   return (
     <div className="flex justify-center">
-      <video className="videoTag myVideo" autoPlay loop muted>
+      <video className="videoTag myVideo w-screen h-screen" autoPlay loop muted>
         <source src={video} type="video/mp4" />
       </video>
       <Links />
