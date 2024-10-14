@@ -10,7 +10,9 @@ const Navbar = () => {
       </Link>
       <div className="flex flex-col mr-8 text-sm">
         <p>Call us at: </p>
-        <p>(877) 325-4000 </p>
+        <a href="tel:+18773254000" className="hover:underline">
+          (877) 325-4000
+        </a>
       </div>
     </div>
   );
