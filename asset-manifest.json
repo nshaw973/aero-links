@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aero-links/static/css/main.1d56b93e.css",
-    "main.js": "/aero-links/static/js/main.d66d9bd7.js",
+    "main.css": "/aero-links/static/css/main.6953421c.css",
+    "main.js": "/aero-links/static/js/main.188f8a7e.js",
     "static/js/453.f1dc1390.chunk.js": "/aero-links/static/js/453.f1dc1390.chunk.js",
     "static/media/building.mp4": "/aero-links/static/media/building.3eb84482d2c6b021ab98.mp4",
     "static/media/aero.png": "/aero-links/static/media/aero.2fe132708d5bae8940ef.png",
@@ -10,12 +10,12 @@
     "static/media/goldStar.png": "/aero-links/static/media/goldStar.d4200b84a41d407fa331.png",
     "static/media/tiktok.png": "/aero-links/static/media/tiktok.49b1a7fdabdc892efbab.png",
     "index.html": "/aero-links/index.html",
-    "main.1d56b93e.css.map": "/aero-links/static/css/main.1d56b93e.css.map",
-    "main.d66d9bd7.js.map": "/aero-links/static/js/main.d66d9bd7.js.map",
+    "main.6953421c.css.map": "/aero-links/static/css/main.6953421c.css.map",
+    "main.188f8a7e.js.map": "/aero-links/static/js/main.188f8a7e.js.map",
     "453.f1dc1390.chunk.js.map": "/aero-links/static/js/453.f1dc1390.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d56b93e.css",
-    "static/js/main.d66d9bd7.js"
+    "static/css/main.6953421c.css",
+    "static/js/main.188f8a7e.js"
   ]
 }
